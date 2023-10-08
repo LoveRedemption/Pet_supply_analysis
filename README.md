@@ -15,6 +15,10 @@ Seaborn
 
 if values in columns match the expected description.
 
+state the numbers of product in each category
+
+state the numbers of products in each animal category
+
 Identify and state the number of missing values in each column.
 
 Describe any corrections or transformations made to the data.
@@ -22,9 +26,11 @@ Describe any corrections or transformations made to the data.
 
 
 #### VISUALIZATION
+Create a visualization that displays all of the variables apart from repeat purchases 
 
 Create a visualization that displays how many products are repeat purchases.
 
+Calculate average sales, rating and price in each category.
 
 Identify which category in the "repeat purchases" variable has the most observations.
 
