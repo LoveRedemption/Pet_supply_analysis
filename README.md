@@ -53,7 +53,7 @@ Describe and visualize the relationship between "repeat purchases" and "sales".
 ##### repeat_purchase: A binary value indicating whether the product is a repeat purchase (1 for Yes, 0 for No).
 
 
-Skills and Tool Used: 
+##### Skills and Tool Used: 
 Python
 Data cleaning, Data Manipulation and Data Wrangling.
 Exploratory Data Analysis (Univariate, Bivariate, Multivariate Analysis, and Visualization).
