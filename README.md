@@ -1,13 +1,13 @@
 **About**
-The company, PetMind, is a retailer of products for pets based in the United States.
+- The company, PetMind, is a retailer of products for pets based in the United States.
 They sell both luxury and everyday items for pets. The company aims to boost sales by promoting repeat purchases of everyday items.
 The dataset contains sales records from the past year, and the company wishes to understand how repeat purchases impact sales.
 
 **Libraries Used**:
-Numpy
-Pandas
-Matplotlib
-Seaborn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 # Data Cleaning and Exploration
 
